@@ -5,3 +5,5 @@
 layout: home
 list_title: ' '
 ---
+
+Hi there! I am a current senior at the University of Southern California. 
