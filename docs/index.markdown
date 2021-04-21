@@ -7,3 +7,8 @@ list_title: ' '
 ---
 
 Hi there! I am a current senior at the University of Southern California. 
+
+<div class="hero">
+  	<img class="feature-img" src="{{ 'assets/lagoatitlan.jpg' | relative_url }}" />
+  	Lago de Atitlán, May 2019
+</div>
