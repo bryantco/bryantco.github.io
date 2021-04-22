@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Minority Languages Data Vis
+title: Minority Languages Data Visualization
 permalink: /minlangsmap/
 ---
 Below is a mini-data visualization of "politically relevant" minority languages across the world. I collected this data for my thesis. <br> <br>
