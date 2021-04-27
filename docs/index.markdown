@@ -6,7 +6,8 @@ layout: home
 list_title: ' '
 ---
 
-Hi there! I am a current senior at the University of Southern California. 
+Hi there! I am a current senior at the University of Southern California. <br> 
+In 2021-22, I will be a MA in Public Policy, Certificate in Research Methods (MACRM) student at the University of Chicago. 
 
 <div class="hero">
   	<img class="feature-img" src="{{ 'assets/lagoatitlan.jpg' | relative_url }}" />
