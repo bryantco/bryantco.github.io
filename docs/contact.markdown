@@ -11,9 +11,9 @@ Here are other places you can find me:
   {%- include social.html -%}
 </div>
 
-<br> <br> 
+<br> <br>
 
 <div class="hero">
-  	<img class="feature-img" src="{{ 'assets/lagodicarezza.jpg' | relative_url }}" />
+  	<img class="feature-img" src="{{ 'assets/lagodicarezza.jpg' | relative_url }}" /> <br>
   	Lago di Carezza, Italy, June 2018
 </div>
