@@ -7,9 +7,9 @@ list_title: ' '
 ---
 
 Hi there! I am a current senior at the University of Southern California. <br> <br>
-Starting fall 2021, I will be a MA in Public Policy, Certificate in Research Methods (MACRM) student at the University of Chicago. 
+Starting fall 2021, I will be a MA in Public Policy, Certificate in Research Methods (MACRM) student at the University of Chicago.
 
 <div class="hero">
   	<img class="feature-img" src="{{ 'assets/lagoatitlan.jpg' | relative_url }}" />
-  	Lago de Atitlán, May 2019
+  	Lago de Atitlán, Guatemala, May 2019
 </div>
