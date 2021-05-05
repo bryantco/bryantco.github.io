@@ -32,10 +32,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-minima:
-  social_links:
-    linkedin: bryant-cong
-    github: bryantco 
+social_links:
+  linkedin: bryant-cong
+  github: bryantco 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
