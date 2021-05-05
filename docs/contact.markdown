@@ -10,3 +10,8 @@ Here are other places you can find me:
 <div class="social-links">
   {%- include social.html -%}
 </div>
+
+<div class="hero">
+  	<img class="feature-img" src="{{ 'assets/lagodicarezza.jpg' | relative_url }}" />
+  	Lago de Atitlán, Guatemala, May 2019
+</div>
