@@ -13,5 +13,5 @@ Here are other places you can find me:
 
 <div class="hero">
   	<img class="feature-img" src="{{ 'assets/lagodicarezza.jpg' | relative_url }}" />
-  	Lago de Atitlán, Guatemala, May 2019
+  	Lago di Carezza, Italy, June 2018
 </div>
