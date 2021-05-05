@@ -11,6 +11,8 @@ Here are other places you can find me:
   {%- include social.html -%}
 </div>
 
+<br> <br> 
+
 <div class="hero">
   	<img class="feature-img" src="{{ 'assets/lagodicarezza.jpg' | relative_url }}" />
   	Lago di Carezza, Italy, June 2018
