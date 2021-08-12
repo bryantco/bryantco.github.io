@@ -6,7 +6,7 @@ layout: home
 list_title: ' '
 ---
 
-Hi there! I am an incoming <a href="https://harris.uchicago.edu/academics/degrees/ma-public-policy-certificate-research-methods-macrm/program-overview" target="_blank">M.A. in Public Policy, Certificate in Research Methods (MACRM)</a> student at the University of Chicago. <br> <br>
+Hi there! I am an incoming <a href="https://harris.uchicago.edu/academics/degrees/ma-public-policy-certificate-research-methods-macrm/program-overview" target="_blank">M.A. in Public Policy, Certificate in Research Methods (MACRM)</a> student at the University of Chicago. I am also an incoming research assistant at the Transitional Justice and Democratic Stability Lab. <br> <br>
 I recently received my B.S. in Economics/Mathematics and B.A. in International Relations from the University of Southern California. <br> <br>
 
 
