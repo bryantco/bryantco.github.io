@@ -1,8 +1,15 @@
 ---
 layout: page
-title: Minority Languages Data Visualization
+title: Projects
 permalink: /minlangsmap/
 ---
+# Trends in Chinese Primary School Enrollment, 2000-2019
+This quick graph was made for my final paper in PLSC 42701: Seminar in Chinese Politics (Winter 2022).
+<div class="image">
+	<img class="feature-img" src="{{ 'assets/education_plog.png' | relative_url }}" />
+</div>
+
+# Minority Languages Data Visualization
 Below is a mini-data visualization of "politically relevant" minority languages across the world. I collected this data for my thesis. <br> <br>
 The coding rules that I used to determine the "politically relevant" minority languages in a country can be found
 <a href="{{ 'assets/minlang-coderules.pdf' | relative_url}}" target="_blank">here</a>.
