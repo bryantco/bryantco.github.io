@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Projects
-permalink: /minlangsmap/
+permalink: /projects/
 ---
 # Trends in Chinese Primary School Enrollment, 2000-2019
 This quick graph was made for my final paper in PLSC 42701: Seminar in Chinese Politics (Winter 2022).
 <div class="image">
-	<img class="feature-img" src="{{ 'assets/education_plot.png' | relative_url }}" />
+	<img class="feature-img" src="{{ 'assets/education_plot.png' | relative_url }}" style="height:125%" />
 </div>
 
 # Minority Languages Data Visualization
