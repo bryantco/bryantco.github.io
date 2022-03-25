@@ -8,7 +8,7 @@ This quick graph was made for my final paper in PLSC 42701: Seminar in Chinese P
 <div class="image">
 	<img src="{{ 'assets/primary_school_chart.png' | relative_url }}"/>
 </div>
-
+<br> <br> 
 # Minority Languages Data Visualization
 Below is a mini-data visualization of "politically relevant" minority languages across the world. I collected this data for my thesis. <br> <br>
 The coding rules that I used to determine the "politically relevant" minority languages in a country can be found
