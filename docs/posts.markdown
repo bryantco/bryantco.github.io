@@ -2,9 +2,9 @@
 layout: page
 permalink: /posts/
 ---
-
 {%- if site.posts.size > 0 -%}
-  <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+  <h2 class="post-list-heading">{{ page.list_title | default: "Blog Posts" }}</h2>
+  Below you can find some projects with quick accompanying writeups.
   <ul class="post-list">
     {%- for post in site.posts -%}
     <li>
