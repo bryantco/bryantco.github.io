@@ -3,4 +3,4 @@ layout: post
 title: "Test Post"
 ---
 
-Hi there! This is a test.
+Hi there! This is a test post continued. 
