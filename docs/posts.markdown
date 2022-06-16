@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ''
 permalink: /posts/
 ---
 {%- if site.posts.size > 0 -%}
