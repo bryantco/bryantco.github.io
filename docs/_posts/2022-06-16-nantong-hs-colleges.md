@@ -4,7 +4,9 @@ title: "Test Post"
 ---
 
 In China, high school students seeking admission to domestic universities face the daunting
-task of taking national college entrance examinations known as the *gaokao* (高考) at the end of their third years. Similar to the United States, there is significant heterogeneity in the location and quality of universities that *gaokao* students end up in. Using <a href="http://gklq.ntzx.cn/index.asp?jlh=4">*gaokao* results data</a> from Nantong High School (南通中学), a relatively selective high school in Jiangsu province, I present three maps that try to unpack some of this heterogeneity. These maps display the 138 different universities that the 855 *gaokao* examinees from Nantong High School in 2015 ultimately chose to attend. <br> <br>
+task of taking national college entrance examinations known as the *gaokao* (高考) at the end of their third years. Similar to the United States, there is significant heterogeneity in the location and quality of universities that *gaokao* students end up in. Using <a href="http://gklq.ntzx.cn/index.asp?jlh=4">*gaokao* results data</a> from Nantong High School (南通中学), a relatively selective high school in Jiangsu province, I present three maps that try to unpack some of this heterogeneity.[^1] These maps display the 138 different universities that the 855 *gaokao* examinees from Nantong High School in 2015 ultimately chose to attend.
+
+[^1]: Data was scraped using the Beautiful Soup library in Python. Maps were produced using QGIS (with data acquired from OpenStreetMap) and the `tmap` package in R.
 
 The first map below simply displays bubbles corresponding to the geographical locations of universities that students end up in. Each bubble corresponds to a single university; bubble sizes correspond to the number of graduating students attending that university. I argue that there are two major takeaways:
 
@@ -26,9 +28,9 @@ This map adds two more layers to the story:
 
 * **There are provinces where no students chose to attend university in.** These seem to be mainly in the interior of China. Although I haven't explored the data, these provinces appear to be *poorer* and/or *ethnic minority* provinces relative to Jiangsu.
 
-Finally, how prestigious are the universities that students are placing into? To answer this, I plot the number of students placing into "double first class" (双一流) universities across China. "Double first class" (hereafter, DFC) universities are elite universities <a href="https://en.wikipedia.org/wiki/Double_First_Class_University_Plan">specially designated by the Chinese government</a> in 2015 for funding and development through 2050.[^1] Therefore, DFC status is a good indicator of university prestige. The top map depicts DFC universities by geographical location and the number of students who chose to attend. The bottom map depicts the same for non-DFC universities.
+Finally, how prestigious are the universities that students are placing into? To answer this, I plot the number of students placing into "double first class" (双一流) universities across China. "Double first class" (hereafter, DFC) universities are elite universities <a href="https://en.wikipedia.org/wiki/Double_First_Class_University_Plan">specially designated by the Chinese government</a> in 2015 for funding and development through 2050.[^2] Therefore, DFC status is a good indicator of university prestige. The top map depicts DFC universities by geographical location and the number of students who chose to attend. The bottom map depicts the same for non-DFC universities.
 
-[^1]: As of 2022, there are currently 147 universities designated as DFC. In coding DFC status, I only include main university campuses (and so exclude satellite campuses).
+[^2]: As of 2022, there are currently 147 universities designated as DFC. In coding DFC status, I only include main university campuses (and so exclude satellite campuses).
 
 <img class="feature-img" src="{{ 'assets/nantong_plot_dfc.png' | relative_url }}" />  |
 
