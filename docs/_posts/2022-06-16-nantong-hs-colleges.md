@@ -22,9 +22,21 @@ The previous map is slightly misleading due to the purple bubbles having high ov
 This map adds two more layers to the story:
 
 
-* **This high school seems to have strong university placement**. From the 855 students, there is a strong concentration of students who end up in Shanghai, Hubei, and Beijing. These locations are home to some of the best universities in China, such as Shanghai Jiaotong University (上海交通大学), Wuhan University (武汉大学), and Peking University (北京大学 or 北大 for short).
+* **This high school seems to have strong university placement**. From the 855 students, there is a strong concentration of students who end up in Shanghai, Hubei, and Beijing. These locations are home to some of the best universities in China, such as Shanghai Jiaotong University (上海交通大学), Wuhan University (武汉大学), and Peking University (北京大学 or 北大 for short). Also, as noted previously, a large number of students do indeed choose to stay in Jiangsu.
 
 * **There are provinces where no students chose to attend university in.** These seem to be mainly in the interior of China. Although I haven't explored the data, these provinces appear to be *poorer* and/or *ethnic minority* provinces relative to Jiangsu.
 
-Placeholder.
+Finally, how prestigious are the universities that students are placing into? To answer this, I plot the number of students placing into "double first class" (双一流) universities across China. "Double first class" (hereafter, DFC) universities are elite universities <a href="https://en.wikipedia.org/wiki/Double_First_Class_University_Plan">specially designated by the Chinese government</a> in 2015 for funding and development through 2050.[^1] Therefore, DFC status is a good indicator of university prestige. The top map depicts DFC universities by geographical location and the number of students who chose to attend. The bottom map depicts the same for non-DFC universities.
+
+[^1]: As of 2022, there are currently 147 universities designated as DFC. In coding DFC status, I only include main university campuses (and so exclude satellite campuses).
+
 <img class="feature-img" src="{{ 'assets/nantong_plot_dfc.png' | relative_url }}" />  |
+
+As seen from this panel,
+
+
+* **Students staying in Jiangsu/Shanghai appear to be evenly split between between DFC and non-DFC schools.** This makes sense, given that these regions are both home to elite universities but also non-elite, more vocationally focused local universities. I suspect that this is the reason for this split.
+
+* **Outside Jiangsu/Shanghai, many more students end up in DFC schools compared to non-DFC ones**. This reinforces the strength/competitiveness of Nantong High School in placing its graduates.
+
+Overall, students from Nantong High School seem to have strong *gaokao* results both inside and outside Jiangsu. While students from Nantong High School and Jiangsu might not be representative of the "average" Chinese student, this mapping nevertheless provides a useful snapshot of where students end up after the *gaokao*.
