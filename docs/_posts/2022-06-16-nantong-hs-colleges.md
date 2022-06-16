@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test Post"
+title: "Analyzing Gaokao Placements of Nantong HS"
 ---
 
 In China, high school students seeking admission to domestic universities face the daunting
