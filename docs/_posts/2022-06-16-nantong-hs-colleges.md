@@ -15,7 +15,14 @@ The first map below simply displays bubbles corresponding to the geographical lo
 
 * **Most students choose to stay in their home province of Jiangsu, and/or home city of Nantong.** This makes sense especially in Jiangsu, since major cities such as Shanghai (上海) and Nanjing (南京) are home to many universities (including very prestigious ones).
 
-<img class="feature-img" src="{{ 'assets/nantong_plot_bubbles.png' | relative_url }}" />
+<figure>
+  <img class="feature-img" src="{{ 'assets/nantong_plot_bubbles.png' | relative_url }}" />
+
+  <figcaption>
+  <em>NOTE:</em>Bubbles for this plot and all following plots correspond to number of students to the nearest multiple of 10.
+  </figcaption>
+
+</figure>
 
 The previous map is slightly misleading due to the purple bubbles having high overlap within a city (eg in Beijing 北京 and Wuhan 武汉). A map that displays variation in the number of students attending colleges across the different provinces would solve this problem, as presented next.
 
