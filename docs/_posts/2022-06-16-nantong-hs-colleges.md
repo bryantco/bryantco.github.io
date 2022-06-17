@@ -19,7 +19,7 @@ The first map below simply displays bubbles corresponding to the geographical lo
   <img class="feature-img" src="{{ 'assets/nantong_plot_bubbles.png' | relative_url }}" />
 
   <figcaption>
-  <em>NOTE:</em>Bubbles for this plot and all following plots correspond to number of students to the nearest multiple of 10.
+  <em>NOTE:</em> Bubbles for this plot and all following plots correspond to number of students to the nearest multiple of 10.
   </figcaption>
 
 </figure>
