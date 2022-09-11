@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Analyzing Gaokao Placements of Nantong HS"
+title: "Summer on the Hyde Park Express"
 date: "09-12-2022"
 ---
 
