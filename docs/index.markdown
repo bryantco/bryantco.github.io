@@ -6,7 +6,7 @@ layout: home
 list_title: ' '
 ---
 
-Hi there! I am a current <a href="https://harris.uchicago.edu/academics/degrees/ma-public-policy-certificate-research-methods-macrm/program-overview" target="_blank">M.A. in Public Policy, Certificate in Research Methods (MACRM)</a> student at the University of Chicago. I am interested in using applied microeconomics & econometrics to tackle questions in development economics & economic inequality. In Summer 2022, I will intern at the <a href="https://urbanlabs.uchicago.edu/labs/crime" target="_blank">UChicago Crime and Education Labs</a> as a data analyst. <br>
+Hi there! I am a current <a href="https://harris.uchicago.edu/academics/degrees/ma-public-policy-certificate-research-methods-macrm/program-overview" target="_blank">M.A. in Public Policy, Certificate in Research Methods (MACRM)</a> student at the University of Chicago. I am interested in using applied microeconomics & econometrics to tackle questions in economic inequality & urban policy. 
 
 I previously received my B.S. in Economics/Mathematics and B.A. in International Relations from the University of Southern California. <br>
 
