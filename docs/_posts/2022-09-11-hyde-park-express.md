@@ -3,9 +3,13 @@ layout: post
 title: "Summer on the Hyde Park Express"
 ---
 
-This summer, I rode the Hyde Park Express (#2) bus every Tuesday and Thursday on my way to and from the UChicago Urban Labs office in downtown Chicago. The bus winds through Hyde Park and Kenwood -- two neighborhoods (community areas) close to my heart -- then runs express up Lake Shore Drive to reach the Chicago Loop. As a tribute to the scenic route and the incredible time I had as a summer data intern, I decided to gather some data on the Hyde Park Express's ridership during the last morning I went in-person to the Urban Labs office (September 1).
+## Motivation
+Every Tuesday and Thursday this summer, I rode the Hyde Park Express (#2) bus to and from the UChicago Urban Labs office in downtown Chicago. The bus winds through Hyde Park and Kenwood, then runs express up Lake Shore Drive to reach the Loop. As a tribute to the scenic route and the incredible time I had as a summer data intern, I decided to gather some data on the Hyde Park Express's ridership during the last morning (September 1) I went to the Urban Labs office.
 
-The map below represents my best shot at visualizing this data, and at practicing my GIS skills. The circles each represent one stop on the Hyde Park Express route. They are sized relative to the total number of
+## Mapping the Hyde Park Express
+The two maps below represent my best shot at visualizing this data and at practicing my GIS skills. The size and color of the bubbles on the **first map** depict the net entries (entries minus exits) at each stop on the 2 route; purple corresponds to the most negative amount of net entries, blue and green to a moderate positive amount, and yellow to the most extreme positive amount. Rephrased slightly, its goal is to allow the beholder to inspect which stops are popular mass entry or mass exit stops.
+
+The bubbles on the **second map** only differ in size, with larger bubbles corresponding to higher passenger traffic (entries plus exits). You can **hover over** the bubbles on both maps or **click** them to see the corresponding data for each stop.
 
 <div class="container">
 
@@ -18,3 +22,9 @@ The map below represents my best shot at visualizing this data, and at practicin
     <iframe width="100%" height="500" frameborder="0" scrolling="no" src="{{ 'assets/hpe_map_traffic.html' | relative_url }}"></iframe>
 
 </div> <!-- /.container -->
+
+## Takeaways
+
+* First map: no surprises, most entries are in Hyde Park/Kenwood; with a popular one being Lake Park & E Hyde Park; most exits are in the Loop
+* Second map: Lake Park & 47th, Lake Park & East Hyde Park; remember being surprised that not many people exited State & Madison and the bubble reflects that
+* Cut out stop on Payne & Cottage Grove ... right next to stop on Drexel Square & Cottage Grove 
