@@ -1,0 +1,47 @@
+<h1> Visualizing Divvy Trips + Inequality (?) in Chicago </h1>
+
+This page holds the visualizations I made for the final assignment in
+the Spring 2023 offering of MACS 30113 at the University of Chicago.
+We practiced PySpark and visualization of big data in this assignment.
+
+<h2>Overview</h2>
+<p> The interactive map below highlights all trips taken via Divvy in Q3 (July - September)
+of 2018. Each shaded blue area corresponds to one of the
+<a href="https://www.chicago.gov/content/dam/city/depts/dgs/InformationTechnology/GIS/MapBook_Community_Areas.pdf">community areas</a>
+of Chicago, and each dot corresponds to a Divvy station. Hover over a station to see the relevant statistics associated with
+Divvy trips starting from that station: <br>
+<ul>
+ <li><b>Station Name</b>: Name of the Divvy station.</li>
+ <li><b>Docks in Service</b>: Number of bike docks in service.</li>
+ <li><b>Trip Count</b>: Total number of trips starting from station in Q3 2018.</li>
+ <li><b>Trip Count (Normalized)</b>: Trip count divided by number of docks in service.</li>
+</ul>
+<br>
+The "normalized" trip count measure tries to account for the fact that stations with high trip counts
+might just have more bikes available to take trips on. It does this by dividing the total trip count by
+number of total bike docks available at a station, to create a trip count measure in standardized units
+of trips per bike.
+</p>
+
+<p>
+Yellow and green correspond to the highest normalized trip counts, and blue and purple correspond
+the lowest. One takeaway from the map is that Divvy trips are the most frequent in the Loop (no surprise),
+and on the North Side. They are the least frequent on the South, Southwest, and West Sides of Chicago.
+You can read more about this in my README file for the assignment.
+</p>
+
+
+<div class="container" align="center">
+    <iframe width="50%" height="900" frameborder="0" scrolling="no" src="assets/divvy_trips_q3_2018_map.html"></iframe>
+</div> <!-- /.container -->
+
+<p>
+Here is an additional fun bonus visualization of a week in the life of an average Divvy bike. I created a timelapse gif to track Divvy bike 3205
+on its journey during the week of July 1 to July 8, 2018. I selected bike 3205 because it starts the day on July 1 from
+the Ellis & 55th Divvy station, my local station when I used Divvy to commute to class during my first year of graduate school
+at the University of Chicago.
+</p>
+
+<div class="container" align="center">
+    <iframe width="50%" height="900" frameborder="0" scrolling="no" src={{ url_for('static', filename='bike_3205.gif') }}></iframe>
+</div> <!-- /.container -->

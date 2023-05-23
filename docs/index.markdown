@@ -6,7 +6,7 @@ layout: home
 list_title: ' '
 ---
 
-Hi there! I am a current <a href="https://harris.uchicago.edu/academics/degrees/ma-public-policy-certificate-research-methods-macrm/program-overview" target="_blank">M.A. in Public Policy, Certificate in Research Methods (MACRM)</a> student at the University of Chicago. I am interested in using applied microeconomics & econometrics to tackle questions in economic inequality & urban policy. 
+Hi there! I am a graduating <a href="https://harris.uchicago.edu/academics/degrees/ma-public-policy-certificate-research-methods-macrm/program-overview" target="_blank">M.A. in Public Policy, Certificate in Research Methods (MACRM)</a> student at the University of Chicago. I am broadly interested in education policy and applying causal inference & computational methods to study questions relating to education equity.
 
 I previously received my B.S. in Economics/Mathematics and B.A. in International Relations from the University of Southern California. <br>
 
