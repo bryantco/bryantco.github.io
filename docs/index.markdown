@@ -6,11 +6,11 @@ layout: home
 list_title: ' '
 ---
 
-Hi there! I am a graduating <a href="https://harris.uchicago.edu/academics/degrees/ma-public-policy-certificate-research-methods-macrm/program-overview" target="_blank">M.A. in Public Policy, Certificate in Research Methods (MACRM)</a> student at the University of Chicago. I am broadly interested in education policy and applying causal inference & computational methods to study questions relating to educational equity and student well-being.
+Hi there! I am a Research Analyst at the University of Chicago Crime Lab and Education Lab. I am broadly interested in education policy and applying causal inference & computational methods to study questions relating to educational equity and student well-being.
 
-I previously received my B.S. in Economics/Mathematics and B.A. in International Relations from the University of Southern California. <br>
+I previously received my M.P.P. from the University of Chicago, with a <a href="https://harris.uchicago.edu/academics/degrees/ma-public-policy-certificate-research-methods-macrm/program-overview" target="_blank">Certificate in Research Methods</a>. I also hold a B.S. in Economics/Mathematics and a B.A. in International Relations from the University of Southern California. <br>
 
-Outside of school, I enjoy training with the <a href="https://www.instagram.com/uchicagotri/" target="_blank">University of Chicago Triathlon Club</a> and spending time with my corgi, Misu.
+Outside of school, I enjoy training for triathlons and spending time with my corgi, Misu.
 
 <div class="hero">
   	<img class="feature-img" src="{{ 'assets/lagoatitlan.jpg' | relative_url }}" />
