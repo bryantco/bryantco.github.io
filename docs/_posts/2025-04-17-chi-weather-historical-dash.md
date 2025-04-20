@@ -3,4 +3,4 @@ layout: post
 title: "Chicago Historical Weather Dashboard"
 ---
 
-<iframe src="http://localhost:8088/superset/dashboard/p/d5ZylLJyEkM/?standalone=true"></iframe>
+<iframe src="https://chi-weather-historical-dash.onrender.com/superset/dashboard/p/35r7q7NdMQ9/?standalone=true"></iframe>
