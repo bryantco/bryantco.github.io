@@ -6,9 +6,9 @@ layout: home
 list_title: ' '
 ---
 
-Hi there! I am a Research Analyst at the University of Chicago <a href="https://crimelab.uchicago.edu/" target="_blank">Crime Lab</a> and <a href="https://educationlab.uchicago.edu/" target="_blank">Education Lab</a>. I am broadly interested in education policy and applying causal inference & computational methods to study questions relating to educational equity and student well-being.
+Hi there! I am a Consulting Associate at Charles River Associates in the Competition & Antitrust Practice. I am broadly interested in the intersection between quantitative and computational methods and economics.
 
-I previously received my M.P.P. from the University of Chicago, with a <a href="https://harris.uchicago.edu/academics/degrees/ma-public-policy-certificate-research-methods-macrm/program-overview" target="_blank">Certificate in Research Methods</a>. I also hold a B.S. in Economics/Mathematics and a B.A. in International Relations from the University of Southern California. <br>
+I previously worked at the University of Chicago <a href="https://crimelab.uchicago.edu/" target="_blank">Crime Lab</a> and the <a href="https://educationlab.uchicago.edu/" target="_blank">Education Lab</a>. I received my M.P.P. from the University of Chicago, with a <a href="https://harris.uchicago.edu/academics/degrees/ma-public-policy-certificate-research-methods-macrm/program-overview" target="_blank">Certificate in Research Methods</a>. I also hold a B.S. in Economics/Mathematics and a B.A. in International Relations from the University of Southern California. <br>
 
 Outside of school, I enjoy training for triathlons and spending time with my corgi, Misu.
 
