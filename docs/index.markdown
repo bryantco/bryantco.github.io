@@ -6,7 +6,7 @@ layout: home
 list_title: ' '
 ---
 
-Hi there! I am a Consulting Associate at <a href="https://www.crai.com/" target="_blank">Charles River Associates</a> in the Competition & Antitrust Practice. I am broadly interested in the intersection between quantitative and computational methods and economics.
+Hi there! I am an Associate at <a href="https://www.crai.com/" target="_blank">Charles River Associates</a> in the Competition & Antitrust Practice. I am broadly interested in the intersection between quantitative and computational methods and economics.
 
 I previously worked at the University of Chicago <a href="https://crimelab.uchicago.edu/" target="_blank">Crime Lab</a> and the <a href="https://educationlab.uchicago.edu/" target="_blank">Education Lab</a>. I received my M.P.P. from the University of Chicago, with a <a href="https://harris.uchicago.edu/academics/degrees/ma-public-policy-certificate-research-methods-macrm/program-overview" target="_blank">Certificate in Research Methods</a>. I also hold a B.S. in Economics/Mathematics and a B.A. in International Relations from the University of Southern California. <br>
 
