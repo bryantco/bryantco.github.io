@@ -10,7 +10,7 @@ Hi there! I am an Associate at <a href="https://www.crai.com/" target="_blank">C
 
 I previously worked at the University of Chicago <a href="https://crimelab.uchicago.edu/" target="_blank">Crime Lab</a> and the <a href="https://educationlab.uchicago.edu/" target="_blank">Education Lab</a>. I received my M.P.P. from the University of Chicago, with a <a href="https://harris.uchicago.edu/academics/degrees/ma-public-policy-certificate-research-methods-macrm/program-overview" target="_blank">Certificate in Research Methods</a>. I also hold a B.S. in Economics/Mathematics and a B.A. in International Relations from the University of Southern California. <br>
 
-Outside of school, I enjoy training for triathlons and spending time with my corgi, Misu.
+Outside of school, I enjoy training for triathlons and spending time with my cat, Olivia, and corgi, Misu.
 
 <div class="hero">
   	<img class="feature-img" src="{{ 'assets/lagoatitlan.jpg' | relative_url }}" />
